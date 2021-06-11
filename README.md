@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 ## Skills 
 
-![git_logo](https://user-images.githubusercontent.com/80888063/121703267-f0fd3100-cad2-11eb-9727-47104cf7843c.png) Git 
+[git_logo](https://user-images.githubusercontent.com/80888063/121703267-f0fd3100-cad2-11eb-9727-47104cf7843c.png) Git 
 
